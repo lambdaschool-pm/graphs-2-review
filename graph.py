@@ -93,3 +93,4 @@ class Graph:
                 current_component += 1
                 visited.update(reachable)
         self.components
+
